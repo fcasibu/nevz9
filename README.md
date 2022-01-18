@@ -4,5 +4,3 @@
 Started learning Web Development on Jan 8, 2022
 - 💞️ I’m looking to collaborate on future projects with other people when I git gud.
 - 📫 You can reach me on discord nevz#9704
-
-9
