@@ -15,8 +15,8 @@ Current Goals:
    - 11 websites
 5. Finish The Odin Project  
    Progress:
-   - Javascript Path 30%
-      - Linting
+   - Javascript Path 47%
+      - Weather App
 7. Just strive to become better overall
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevz9)](https://github.com/nevz9/github-readme-stats)
