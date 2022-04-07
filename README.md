@@ -1,4 +1,4 @@
-The Odin Project rocks!
+The Odin Project rocks!  
 Started learning Web Development on Jan 8, 2022
 
 Current Goals:
