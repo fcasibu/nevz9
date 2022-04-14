@@ -11,8 +11,8 @@ Current Goals:
    - 11 websites
 5. Finish The Odin Project  
    Progress:
-   - Javascript Path 70%
-      - Project: CV Application
+   - Javascript Path 77%
+      - Project: Memory Card
 7. Just strive to become better overall
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevz9)](https://github.com/nevz9/github-readme-stats)
