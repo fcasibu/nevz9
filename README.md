@@ -11,7 +11,8 @@ Current Goals:
    - 11 websites
 5. Finish The Odin Project  
    Progress:
-   - Javascript Path 100%
+   - Node.js 54%
+      - Inventory Application Project
 7. Just strive to become better overall
 
 **Languages and Tools**  
