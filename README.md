@@ -1,5 +1,4 @@
-The Odin Project rocks!  
-Started learning Web Development on Jan 8, 2022
+# Hello 👋 I'm Francis, aiming to be a Full Stack Web Developer
 
 Current Goals:
 1. Complete 100 kata in codewars with javascript and get less than or equal to 4 kyu  
@@ -11,8 +10,8 @@ Current Goals:
    - 11 websites
 5. Finish The Odin Project  
    Progress:
-   - Node.js 54%
-      - Inventory Application Project
+   - Node.js 83%
+      - Testing Routes and Controllers
 7. Just strive to become better overall
 
 **Languages and Tools**  
