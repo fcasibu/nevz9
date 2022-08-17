@@ -1,5 +1,8 @@
 # Hello 👋 I'm Francis, aiming to be a Full Stack Web Developer
 
+**Connect with me**:  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francis-eugene-casibu/)
+
 Current Goals:
 1. Complete 100 kata in codewars with javascript and get less than or equal to 4 kyu  
    Progress:
